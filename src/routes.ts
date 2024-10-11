@@ -22,3 +22,7 @@ router.get('/titulos', NetflixControl.todos);
 router.delete('/remover/titulo', NetflixControl.remover);
 
 export { router }
+
+
+
+//commit teste
